@@ -6,7 +6,7 @@
 * A passion to learn Computer Science.
 
 ## Index
- - **[Week 1 - Introduction](https://github.com/quangvu0702/Solr_challenge/new/master?readme=1#week-1---introduction)**
+ - **[Week 1 - Introduction](https://github.com/quangvu0702/Python-Challenge/blob/master/README.md#week-1---introduction)**
  
  
 ## Week 1 - Introduction:
