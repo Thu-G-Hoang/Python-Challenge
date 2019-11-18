@@ -13,7 +13,7 @@
   - Videos:
     - Goals: Learn to know what python can do and how they do it.
     - Key words: list, tuple, for, while, if-else, string.
-    - All video in [this course](https://www.coursera.org/learn/learn-to-program)
+    - All videos in [this course](https://www.coursera.org/learn/learn-to-program). Don't worry if you don't understand every line of code. You just need to understand the purpose of modules or functions. And we will comback later to understand every line of code.
     
 ## References:
  - https://github.com/EbookFoundation/free-programming-books/blob/master/free-courses-en.md?fbclid=IwAR13IH3cINqisX7pvxWXsfkaAwKfKu7Qrspv4xMIs1T1m9qTVZ62UqLInbU#python
