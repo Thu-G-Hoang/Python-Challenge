@@ -17,7 +17,7 @@
   - Hands on:
     - Goals: Create a "hello world" on python.
     - Key words: colab, python2, python3, conda
-    - Follow instructions [here](https://www.youtube.com/watch?v=yEIc9z-Ad3k&vl=en) and [here](https://medium.com/@margaretmz/running-jupyter-notebook-with-colab-f4a29a9c7156) to create a "hello world" in python.
+    - Follow instructions in [this video](https://www.youtube.com/watch?v=yEIc9z-Ad3k&vl=en) or [this article](https://medium.com/@margaretmz/running-jupyter-notebook-with-colab-f4a29a9c7156) to create a "hello world" in python.
     
 ## References:
  - https://github.com/EbookFoundation/free-programming-books/blob/master/free-courses-en.md?fbclid=IwAR13IH3cINqisX7pvxWXsfkaAwKfKu7Qrspv4xMIs1T1m9qTVZ62UqLInbU#python
