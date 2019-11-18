@@ -1,6 +1,6 @@
 # Python-Challenge
 
-### I designed this Challenge for my wife: Learn Python in Depth in 12 weeks!!
+### I designed this Challenge for my wife and my young sister: Learn Python in Depth in 12 weeks!!
 
 ### Prerequisites
 * A passion to learn Computer Science.
