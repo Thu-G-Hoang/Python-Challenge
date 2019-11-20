@@ -28,10 +28,10 @@
     - [String](https://github.com/Akuli/python-tutorial/blob/master/basics/handy-stuff-strings.md) takes 2 hours.
     - [List and tuples](https://github.com/Akuli/python-tutorial/blob/master/basics/lists-and-tuples.md) takes 1 hours.
     - [Loops](https://github.com/Akuli/python-tutorial/blob/master/basics/loops.md) takes 3 hours.
-    - [zip, enumerate](https://github.com/Akuli/python-tutorial/blob/master/basics/trey-hunner-zip-and-enumerate.md) optional.
-    - [dict](https://github.com/Akuli/python-tutorial/blob/master/basics/dicts.md) 1 hours.
-    - [function](https://github.com/Akuli/python-tutorial/blob/master/basics/defining-functions.md) 3 hours.
-    - [function continues](https://github.com/Akuli/python-tutorial/blob/master/basics/larger-program.md) 2 hours.
+    - [Zip, enumerate](https://github.com/Akuli/python-tutorial/blob/master/basics/trey-hunner-zip-and-enumerate.md) optional.
+    - [Dict](https://github.com/Akuli/python-tutorial/blob/master/basics/dicts.md) 1 hours.
+    - [Function](https://github.com/Akuli/python-tutorial/blob/master/basics/defining-functions.md) 3 hours.
+    - [Function continues](https://github.com/Akuli/python-tutorial/blob/master/basics/larger-program.md) 2 hours.
     - [class](https://github.com/Akuli/python-tutorial/blob/master/basics/classes.md) optional.
     
 ## References:
