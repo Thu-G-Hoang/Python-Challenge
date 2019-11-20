@@ -20,7 +20,7 @@
     - Follow instructions in [this video](https://www.youtube.com/watch?v=yEIc9z-Ad3k&vl=en) or [this article](https://medium.com/@margaretmz/running-jupyter-notebook-with-colab-f4a29a9c7156) to create a "hello world" in python.
  
 ## Week 2 - Python Basic:
-  - Goals: code what you have learn in week 1.
+  - Goals: code what you have learn.
   - Key words: function, variable.
   - Exercises - It is ok if you don't understand some complexed lines of code, just ignore it, we will comeback later:
     - [Variables](https://github.com/Akuli/python-tutorial/blob/master/basics/variables.md) takes 1 hours.
