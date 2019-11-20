@@ -22,7 +22,7 @@
 ## Week 2 - Python Basic:
   - Goals: code what you have learn in week 1.
   - Key words: function, variable.
-  - Exercises:
+  - Exercises - It is ok if you don't understand some complexed lines of code, just ignore it, we will comeback later:
     - [Variables](https://github.com/Akuli/python-tutorial/blob/master/basics/variables.md) takes 1 hours.
     - [If-else](https://github.com/Akuli/python-tutorial/blob/master/basics/if.md) takes 1 hours.
     - [String](https://github.com/Akuli/python-tutorial/blob/master/basics/handy-stuff-strings.md) takes 2 hours.
