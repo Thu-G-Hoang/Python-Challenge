@@ -32,7 +32,7 @@
     - [Dict](https://github.com/Akuli/python-tutorial/blob/master/basics/dicts.md) takes 1 hours.
     - [Function](https://github.com/Akuli/python-tutorial/blob/master/basics/defining-functions.md) takes 3 hours.
     - [Function continues](https://github.com/Akuli/python-tutorial/blob/master/basics/larger-program.md) takes 2 hours.
-    - [class](https://github.com/Akuli/python-tutorial/blob/master/basics/classes.md) optional.
+    - [Class](https://github.com/Akuli/python-tutorial/blob/master/basics/classes.md) optional.
     
 ## References:
  - https://github.com/EbookFoundation/free-programming-books/blob/master/free-courses-en.md?fbclid=IwAR13IH3cINqisX7pvxWXsfkaAwKfKu7Qrspv4xMIs1T1m9qTVZ62UqLInbU#python
