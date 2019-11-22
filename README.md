@@ -73,3 +73,5 @@
  - https://www.coursera.org/learn/learn-to-program
  - https://github.com/Akuli/python-tutorial
  - https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions
+ - https://www.coursera.org/learn/algorithmic-thinking-1
+ - https://www.coursera.org/learn/algorithmic-thinking-2
