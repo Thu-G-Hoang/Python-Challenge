@@ -45,6 +45,15 @@
       - [Average of numbers](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Number-Related/Math-Power.md)
       - [Divisible by 3 and 5](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Number-Related/Divisible-by-3-and-5.md)
       - [Sum of digits](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Number-Related/Sum-of-digits.md)
+    - Loop Related
+      - [Sum of elements](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/masterLoop-Related/Sum-of-elements.md)
+      - [Largest element of a list](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/masterLoop-Related/Largest-element-of-a-list.md)
+      - [Sum of squares](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/masterLoop-Related/Sum-of-squares.md)
+      - [Second Largest](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/masterLoop-Related/Second-Largest.md)
+      - [Second Smallest](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/masterLoop-Related/Second-smallest.md)
+      - [Remove duplicate Chars](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/masterLoop-Related/Remove-duplicate-Chars.md)
+
+
 
 ## References:
  - https://github.com/EbookFoundation/free-programming-books/blob/master/free-courses-en.md?fbclid=IwAR13IH3cINqisX7pvxWXsfkaAwKfKu7Qrspv4xMIs1T1m9qTVZ62UqLInbU#python
