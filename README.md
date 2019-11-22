@@ -68,7 +68,8 @@
       - [Reverse word](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Reverse/Reverse-word.md)
 
 ## Week 3 - Algorithms:
-
+  - Videos:
+    - View all videos on [this course](https://www.coursera.org/learn/algorithmic-thinking-1)
 ## References:
  - https://github.com/EbookFoundation/free-programming-books/blob/master/free-courses-en.md?fbclid=IwAR13IH3cINqisX7pvxWXsfkaAwKfKu7Qrspv4xMIs1T1m9qTVZ62UqLInbU#python
  - https://www.coursera.org/learn/learn-to-program
