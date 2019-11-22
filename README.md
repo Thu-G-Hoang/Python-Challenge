@@ -8,6 +8,7 @@
 ## Index
  - **[Week 1 - Introduction](https://github.com/quangvu0702/Python-Challenge/blob/master/README.md#week-1---introduction)**
  - **[Week 2 - Python Basic](https://github.com/quangvu0702/Python-Challenge/blob/master/README.md#week-2---python-basic)**
+ - **[Week 3 - Algorithms]()**
  
 ## Week 1 - Introduction:
   - Videos:
@@ -65,7 +66,7 @@
       - [Reverse Number](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Reverse/Reverse-Number.md)
       - [Reverse word](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Reverse/Reverse-word.md)
 
-
+## Week 3 - Algorithms:
 
 ## References:
  - https://github.com/EbookFoundation/free-programming-books/blob/master/free-courses-en.md?fbclid=IwAR13IH3cINqisX7pvxWXsfkaAwKfKu7Qrspv4xMIs1T1m9qTVZ62UqLInbU#python
