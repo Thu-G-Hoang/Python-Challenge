@@ -39,6 +39,13 @@
       - [Random Number](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Easy-ones/Random-Number.md)
       - [Floor Division](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Easy-ones/Floor-Division.md)
       - [Temporary variable](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Easy-ones/Temporary-variable.md)
+    - Number Related
+      - [Max of two](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Number-Related/max-of-two.md)
+      - [Max of three](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Number-Related/User-input-to-Number.md)
+      - [Average of numbers](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Number-Related/Math-Power.md)
+      - [Divisible by 3 and 5](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Number-Related/Divisible-by-3-and-5.md)
+      - [Sum of digits](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Number-Related/Sum-of-digits.md)
+
 ## References:
  - https://github.com/EbookFoundation/free-programming-books/blob/master/free-courses-en.md?fbclid=IwAR13IH3cINqisX7pvxWXsfkaAwKfKu7Qrspv4xMIs1T1m9qTVZ62UqLInbU#python
  - https://www.coursera.org/learn/learn-to-program
