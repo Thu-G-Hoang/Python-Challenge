@@ -68,6 +68,8 @@
       - [Reverse word](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Reverse/Reverse-word.md)
 
 ## Week 3 - Algorithms:
+  - Goals: Learn the simplest algorithms.
+  - Key words: Pseudo-code, Brute force, Measuring efficiency, Big O, BFS.
   - Videos:
     - View all videos on [this course](https://www.coursera.org/learn/algorithmic-thinking-1)
 ## References:
