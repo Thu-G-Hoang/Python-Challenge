@@ -52,6 +52,12 @@
       - [Second Largest](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Loop-Related/Second-Largest.md)
       - [Second Smallest](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Loop-Related/Second-smallest.md)
       - [Remove duplicate Chars](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Loop-Related/Remove-duplicate-Chars.md)
+    - [Relaxed reading](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Solution-Strategy.md)
+    - Prime number
+      - [Check Prime](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Prime-number/Check-Prime.md)
+      - [Prime Numbers](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Prime-number/Prime-Numbers.md)
+      - [Prime factors](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Prime-number/Prime-factors.md)
+      - [Smallest prime factor](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Prime-number/Smallest-prime-factor.md)
 
 
 
