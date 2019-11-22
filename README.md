@@ -32,6 +32,13 @@
     - [Dict](https://github.com/Akuli/python-tutorial/blob/master/basics/dicts.md) takes 1 hours.
     - [Function](https://github.com/Akuli/python-tutorial/blob/master/basics/defining-functions.md) takes 3 hours.
     
+  - Exercises (continues):
+    - Easy ones
+      - [Convert input](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/Easy-ones/User-input-to-Number.md)
+      - [Math power](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/Easy-ones/Math-Power.md)
+      - [Random Number](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/Easy-ones/Random-Number.md)
+      - [Floor Division](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/Easy-ones/Floor-Division.md)**
+      - [Temporary variable](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/Easy-ones/Temporary-variable.md)
 ## References:
  - https://github.com/EbookFoundation/free-programming-books/blob/master/free-courses-en.md?fbclid=IwAR13IH3cINqisX7pvxWXsfkaAwKfKu7Qrspv4xMIs1T1m9qTVZ62UqLInbU#python
  - https://www.coursera.org/learn/learn-to-program
