@@ -37,7 +37,7 @@
       - [Convert input](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Easy-ones/User-input-to-Number.md)
       - [Math power](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Easy-ones/Math-Power.md)
       - [Random Number](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Easy-ones/Random-Number.md)
-      - [Floor Division](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Easy-ones/Floor-Division.md)**
+      - [Floor Division](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Easy-ones/Floor-Division.md)
       - [Temporary variable](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Easy-ones/Temporary-variable.md)
 ## References:
  - https://github.com/EbookFoundation/free-programming-books/blob/master/free-courses-en.md?fbclid=IwAR13IH3cINqisX7pvxWXsfkaAwKfKu7Qrspv4xMIs1T1m9qTVZ62UqLInbU#python
