@@ -8,7 +8,7 @@
 ## Index
  - **[Week 1 - Introduction](https://github.com/quangvu0702/Python-Challenge/blob/master/README.md#week-1---introduction)**
  - **[Week 2 - Python Basic](https://github.com/quangvu0702/Python-Challenge/blob/master/README.md#week-2---python-basic)**
- - **[Week 3 - Algorithms]()**
+ - **[Week 3 - Algorithms](https://github.com/quangvu0702/Python-Challenge/blob/master/README.md#week-3---algorithms)**
  
 ## Week 1 - Introduction:
   - Videos:
