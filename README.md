@@ -58,6 +58,12 @@
       - [Prime Numbers](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Prime-number/Prime-Numbers.md)
       - [Prime factors](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Prime-number/Prime-Factors.md)
       - [Smallest prime factor](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Prime-number/Smallest-prime-factor.md)
+    - Reverse
+      - [Reverse String](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Reverse/Reverse-String.md)
+      - [Reverse String (stack)](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Reverse/Reverse-String-(stack).md)
+      - [Reverse String (recursive)](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Reverse/Reverse-String-(recursive).md)
+      - [Reverse Number](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Reverse/Reverse-Number.md)
+      - [Reverse word](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Reverse/Reverse-word.md)
 
 
 
