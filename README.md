@@ -56,7 +56,7 @@
     - Prime number
       - [Check Prime](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Prime-number/Check-Prime.md)
       - [Prime Numbers](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Prime-number/Prime-Numbers.md)
-      - [Prime factors](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Prime-number/Prime-factors.md)
+      - [Prime factors](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Prime-number/Prime-Factors.md)
       - [Smallest prime factor](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Prime-number/Smallest-prime-factor.md)
 
 
