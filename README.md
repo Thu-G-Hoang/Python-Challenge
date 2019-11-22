@@ -46,12 +46,12 @@
       - [Divisible by 3 and 5](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Number-Related/Divisible-by-3-and-5.md)
       - [Sum of digits](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Number-Related/Sum-of-digits.md)
     - Loop Related
-      - [Sum of elements](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/masterLoop-Related/Sum-of-elements.md)
-      - [Largest element of a list](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/masterLoop-Related/Largest-element-of-a-list.md)
-      - [Sum of squares](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/masterLoop-Related/Sum-of-squares.md)
-      - [Second Largest](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/masterLoop-Related/Second-Largest.md)
-      - [Second Smallest](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/masterLoop-Related/Second-smallest.md)
-      - [Remove duplicate Chars](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/masterLoop-Related/Remove-duplicate-Chars.md)
+      - [Sum of elements](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Loop-Related/Sum-of-elements.md)
+      - [Largest element of a list](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Loop-Related/Largest-element-of-a-list.md)
+      - [Sum of squares](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Loop-Related/Sum-of-squares.md)
+      - [Second Largest](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Loop-Related/Second-Largest.md)
+      - [Second Smallest](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Loop-Related/Second-smallest.md)
+      - [Remove duplicate Chars](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Loop-Related/Remove-duplicate-Chars.md)
 
 
 
