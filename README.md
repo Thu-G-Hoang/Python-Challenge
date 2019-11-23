@@ -34,6 +34,7 @@
     - [Function](https://github.com/Akuli/python-tutorial/blob/master/basics/defining-functions.md) takes 3 hours.
     
   - Exercises (continues):
+    - [many-names-one-memory-address](https://medium.com/broken-window/many-names-one-memory-address-122f78734cb6)
     - Easy ones
       - [Convert input](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Easy-ones/User-input-to-Number.md)
       - [Math power](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Easy-ones/Math-Power.md)
@@ -65,7 +66,6 @@
       - [Reverse String (recursive)](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Reverse/Reverse-String-(recursive).md)
       - [Reverse Number](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Reverse/Reverse-Number.md)
       - [Reverse word](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Reverse/Reverse-word.md)
-
 ## Week 3 - Algorithms:
   - Goals: Learn the simplest algorithms.
   - Key words: Pseudo-code, Brute force, Measuring efficiency, Big O, BFS.
