@@ -34,7 +34,6 @@
     - [Function](https://github.com/Akuli/python-tutorial/blob/master/basics/defining-functions.md) takes 3 hours.
     
   - Exercises (continues):
-    - [How to debug](https://medium.com/@chrieke/jupyter-tips-and-tricks-994fdddb2057)
     - Easy ones
       - [Convert input](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Easy-ones/User-input-to-Number.md)
       - [Math power](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Easy-ones/Math-Power.md)
