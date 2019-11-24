@@ -43,8 +43,8 @@
       - [Temporary variable](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Easy-ones/Temporary-variable.md)
     - Number Related
       - [Max of two](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Number-Related/max-of-two.md)
-      - [Max of three](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Number-Related/User-input-to-Number.md)
-      - [Average of numbers](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Number-Related/Math-Power.md)
+      - [Max of three](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Number-Related/Max-of-three.md)
+      - [Average of numbers](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Number-Related/Average-of-numbers.md)
       - [Divisible by 3 and 5](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Number-Related/Divisible-by-3-and-5.md)
       - [Sum of digits](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Number-Related/Sum-of-digits.md)
     - Loop Related
