@@ -66,7 +66,8 @@
       - [Reverse String (recursive)](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Reverse/Reverse-String-(recursive).md)
       - [Reverse Number](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Reverse/Reverse-Number.md)
       - [Reverse word](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Reverse/Reverse-word.md)
-## Week 3 - Algorithms:
+## Week 3 - Test:
+  - Re-implement 90% solutions in (Week 2 - Python Basic)[https://github.com/quangvu0702/Python-Challenge/blob/master/README.md#week-2---python-basic] using your memory, without seeing the solutions.
 
 ## References:
  - https://github.com/EbookFoundation/free-programming-books/blob/master/free-courses-en.md?fbclid=IwAR13IH3cINqisX7pvxWXsfkaAwKfKu7Qrspv4xMIs1T1m9qTVZ62UqLInbU#python
