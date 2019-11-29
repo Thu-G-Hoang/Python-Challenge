@@ -75,3 +75,4 @@
  - https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions
  - https://www.coursera.org/learn/algorithmic-thinking-1
  - https://www.coursera.org/learn/algorithmic-thinking-2
+ - https://github.com/rasbt/algorithms_in_ipython_notebooks
