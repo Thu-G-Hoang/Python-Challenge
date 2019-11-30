@@ -67,6 +67,7 @@
       - [Reverse Number](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Reverse/Reverse-Number.md)
       - [Reverse word](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Reverse/Reverse-word.md)
 ## Week 3 - Test:
+  - We will apply [feynman technique](https://mattyford.com/blog/2014/1/23/the-feynman-technique-model)
   - Re-implement 90% solutions in (Week 2 - Python Basic)[https://github.com/quangvu0702/Python-Challenge/blob/master/README.md#week-2---python-basic] using your memory, without seeing the solutions.
 
 ## References:
