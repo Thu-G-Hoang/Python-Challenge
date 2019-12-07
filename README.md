@@ -73,7 +73,7 @@
   - Re-implement 90% solutions in (Week 2 - Python Basic)[https://github.com/quangvu0702/Python-Challenge/blob/master/README.md#week-2---python-basic] using your memory, without seeing the solutions.
 
 # Week 4 - Algorithmic Thinking:
-  - Now you will go to the next level. It will quite challengeable but rewarding.
+  - Now you will go to the next level. It will quite challengeable but rewarding. Enjoy your journey.
   - Goals: learn how to solve problems effectively by using python.
   - Key words: searching, sorting, and recursion
   - Videos:
