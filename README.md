@@ -8,7 +8,8 @@
 ## Index
  - **[Week 1 - Introduction](https://github.com/quangvu0702/Python-Challenge/blob/master/README.md#week-1---introduction)**
  - **[Week 2 - Python Basic](https://github.com/quangvu0702/Python-Challenge/blob/master/README.md#week-2---python-basic)**
- - **[Week 3 - Algorithms](https://github.com/quangvu0702/Python-Challenge/blob/master/README.md#week-3---algorithms)**
+ - **[Week 3 - Test](https://github.com/quangvu0702/Python-Challenge/blob/master/README.md#week-3---test)**
+ - **[Week 4 - Algorithmic Thinking]()**
  
 ## Week 1 - Introduction:
   - Videos:
@@ -66,9 +67,22 @@
       - [Reverse String (recursive)](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Reverse/Reverse-String-(recursive).md)
       - [Reverse Number](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Reverse/Reverse-Number.md)
       - [Reverse word](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions/blob/master/Reverse/Reverse-word.md)
+
 ## Week 3 - Test:
   - We will apply [feynman technique](https://mattyford.com/blog/2014/1/23/the-feynman-technique-model)
   - Re-implement 90% solutions in (Week 2 - Python Basic)[https://github.com/quangvu0702/Python-Challenge/blob/master/README.md#week-2---python-basic] using your memory, without seeing the solutions.
+
+# Week 4 - Algorithmic Thinking:
+  - Now you will go to the next level. It will quite challengeable but rewarding.
+  - Goals: learn how to solve problems effectively by using python.
+  - Key words: searching, sorting, and recursion
+  - Videos:
+    - Requirements:
+      - You don't need to understand all thing on videos.
+      - Learn how they define problems, how solutions are used.
+      - Think about the problem around use that can be solve by the algorithms you have learn.
+      - Learn to think in **Pseudocode**.
+    - All videos in [this course](https://www.coursera.org/learn/algorithmic-thinking-1)
 
 ## References:
  - https://github.com/EbookFoundation/free-programming-books/blob/master/free-courses-en.md?fbclid=IwAR13IH3cINqisX7pvxWXsfkaAwKfKu7Qrspv4xMIs1T1m9qTVZ62UqLInbU#python
