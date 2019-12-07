@@ -9,7 +9,7 @@
  - **[Week 1 - Introduction](https://github.com/quangvu0702/Python-Challenge/blob/master/README.md#week-1---introduction)**
  - **[Week 2 - Python Basic](https://github.com/quangvu0702/Python-Challenge/blob/master/README.md#week-2---python-basic)**
  - **[Week 3 - Test](https://github.com/quangvu0702/Python-Challenge/blob/master/README.md#week-3---test)**
- - **[Week 4 - Algorithmic Thinking]()**
+ - **[Week 4 - Algorithmic Thinking](https://github.com/quangvu0702/Python-Challenge/blob/master/README.md#week-4---algorithmic-thinking)**
  
 ## Week 1 - Introduction:
   - Videos:
