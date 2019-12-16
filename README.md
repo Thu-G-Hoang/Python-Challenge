@@ -10,6 +10,7 @@
  - **[Week 2 - Python Basic](https://github.com/quangvu0702/Python-Challenge/blob/master/README.md#week-2---python-basic)**
  - **[Week 3 - Test](https://github.com/quangvu0702/Python-Challenge/blob/master/README.md#week-3---test)**
  - **[Week 4 - Algorithmic Thinking](https://github.com/quangvu0702/Python-Challenge/blob/master/README.md#week-4---algorithmic-thinking)**
+ - **[Week 5]
  
 ## Week 1 - Introduction:
   - Videos:
@@ -83,6 +84,12 @@
       - Think about the problem around use that can be solve by the algorithms you have learn.
       - Learn to think in **Pseudocode**.
     - All videos in [this course](https://www.coursera.org/learn/algorithmic-thinking-1)
+
+# Week 5 - Coding algorithms:
+  - Home work 1: https://www.coursera.org/learn/algorithmic-thinking-1/exam/Nn2Z5/homework-1
+  - Go to forum of the course: https://www.coursera.org/learn/algorithmic-thinking-1/discussions
+  - Working on Week 2, do all assigments, go to forum if you have any question: https://www.coursera.org/learn/algorithmic-thinking-1/home/week/2
+  - Hoem work 2: https://www.coursera.org/learn/algorithmic-thinking-1/exam/w7sgB/homework-2
 
 ## References:
  - https://github.com/EbookFoundation/free-programming-books/blob/master/free-courses-en.md?fbclid=IwAR13IH3cINqisX7pvxWXsfkaAwKfKu7Qrspv4xMIs1T1m9qTVZ62UqLInbU#python
